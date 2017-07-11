@@ -1,0 +1,8 @@
+/Users/mitchellblom/workspace/c19/classwork/csharp/exercises/lists/bin/Debug/netcoreapp1.1/lists.deps.json
+/Users/mitchellblom/workspace/c19/classwork/csharp/exercises/lists/bin/Debug/netcoreapp1.1/lists.runtimeconfig.json
+/Users/mitchellblom/workspace/c19/classwork/csharp/exercises/lists/bin/Debug/netcoreapp1.1/lists.runtimeconfig.dev.json
+/Users/mitchellblom/workspace/c19/classwork/csharp/exercises/lists/obj/Debug/netcoreapp1.1/lists.AssemblyInfo.cs
+/Users/mitchellblom/workspace/c19/classwork/csharp/exercises/lists/bin/Debug/netcoreapp1.1/lists.dll
+/Users/mitchellblom/workspace/c19/classwork/csharp/exercises/lists/bin/Debug/netcoreapp1.1/lists.pdb
+/Users/mitchellblom/workspace/c19/classwork/csharp/exercises/lists/obj/Debug/netcoreapp1.1/lists.dll
+/Users/mitchellblom/workspace/c19/classwork/csharp/exercises/lists/obj/Debug/netcoreapp1.1/lists.pdb
